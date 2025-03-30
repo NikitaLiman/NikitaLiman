@@ -13,7 +13,8 @@ I am a computer science student in Poland with two years of practical web develo
 ### 📞 Contact Info
 📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
 📧 **Gmail:** fram08fort29@gmail.com  
-💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
+💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)
+📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/)
 
 ---
 
@@ -42,7 +43,7 @@ I am a computer science student in Poland with two years of practical web develo
 ---
 
 ### ⚡ GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaliman&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaliman&layout=compact&theme=tokyonight)
 
 ---
 
