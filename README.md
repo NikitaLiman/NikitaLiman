@@ -18,18 +18,10 @@
 ---
 
 ### 📞 Contact Info
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
-    📧 **Gmail:** fram08fort29@gmail.com  
-    💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
-    📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/)
-  </div>
-  
-  <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdoZGJlbmdlcXp5YXViNWtyMzRmaHo5OG9odTc5YXRnYXNpeGJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOGCyj0NW28gg/giphy.gif" width="150" style="border: 5px solid #ff5733; border-radius: 10px; max-width: 100%; height: auto;">
-  </div>
-</div>
+| Contact | Image |
+|---------|-------|
+| 📱 **Tel:** +48 790 263 681 / +380 50 740 65 59<br>📧 **Gmail:** fram08fort29@gmail.com<br>💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)<br>📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/) | ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdoZGJlbmdlcXp5YXViNWtyMzRmaHo5OG9odTc5YXRnYXNpeGJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOGCyj0NW28gg/giphy.gif) |
+
 
 ---
 
