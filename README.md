@@ -9,20 +9,6 @@ I am a computer science student in Poland with two years of practical web develo
 
 ---
 
-### 🚀 Main Projects
-
-#### 🛍️ Voltex E-commerce Platform
-- Developed a responsive e-commerce application using **Next.js** and **React**.
-- Features a comprehensive **product catalog**, **filtering options**, and **dynamic product pages**.
-- Deployed on **Vercel** for optimized performance and scalability.
-- 🔗 **[Live Demo](https://next-voltex.vercel.app/)**
-
-#### 🎬 SearchKino Movie Search Application
-- Built a **React-based** movie search application that fetches data from an external API.
-- Displays **relevant movie details** with an intuitive and responsive UI.
-- 🔗 **[Live Demo](https://nikitaliman.github.io/SearchKino/)**
-
----
 
 ### 📞 Contact Info
 📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
@@ -35,6 +21,7 @@ I am a computer science student in Poland with two years of practical web develo
 
 #### 🔹 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,7 +42,6 @@ I am a computer science student in Poland with two years of practical web develo
 ---
 
 ### ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikitaliman&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaliman&layout=compact&theme=dark)
 
 ---
