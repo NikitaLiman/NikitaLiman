@@ -1,31 +1,28 @@
 ![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align='center'>
+<p align="center">
   Hi there, I'm Nikita Lyman! 👋
 </p>
-<p align='center', style="margin-top: 10px;">
- 💻 Computer Science Student | Web Developer
+<p align="center" style="margin-top: 10px;">
+  💻 Computer Science Student | Web Developer
 </p>
 
 ---
 
 ### 🧐 About Me
-<div style="display: flex; justify-content: center; align-items: center;">
-  <p style="max-width: 350px; font-size: 16px;">
+<p align="center" style="max-width: 350px; font-size: 16px;">
   I am a computer science student in Poland with two years of practical web development experience. I specialize in **JavaScript, React, Next.js, and TypeScript**, with expertise in state management tools like **Redux** and **Zustand**. Passionate about solving complex challenges, I strive to deliver scalable and high-quality solutions.
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350" style="border: 5px solid #ff5733; border-radius: 10px;">
 </p>
-</div>
 ---
-
 
 ### 📞 Contact Info
 📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
 📧 **Gmail:** fram08fort29@gmail.com  
-💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)
+💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
 📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/)
 
 ---
@@ -61,5 +58,3 @@
 
 ### 📌 Let's Connect!
 Feel free to reach out if you want to collaborate on a project or just chat about web development!
-
-
