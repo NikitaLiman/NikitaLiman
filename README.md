@@ -22,7 +22,7 @@ const nikita = {
   location: "Poland",
   education: "Computer Science",
   experience: "2+ years in Web Development",
-  specialization: ["React", "Next.js", "TypeScript", "Frontend"]
+  specialization: ["React", "Next.js", "TypeScript", "Frontend"],
   currentFocus: "Building scalable web applications",
   hobbies: ["Coding", "Problem Solving", "Continuous Learning"]
 };
