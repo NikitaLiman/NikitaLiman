@@ -4,14 +4,19 @@
   Hi there, I'm Nikita Lyman! 👋
 </p>
 <p align='center', style="margin-top: 10px;">
-### 💻 Computer Science Student | Web Developer
+ 💻 Computer Science Student | Web Developer
 </p>
 
 ---
 
 ### 🧐 About Me
-I am a computer science student in Poland with two years of practical web development experience. I specialize in **JavaScript, React, Next.js, and TypeScript**, with expertise in state management tools like **Redux** and **Zustand**. Passionate about solving complex challenges, I strive to deliver scalable and high-quality solutions.
+<p style="max-width: 350px; font-size: 16px;">
+  I am a computer science student in Poland with two years of practical web development experience. I specialize in **JavaScript, React, Next.js, and TypeScript**, with expertise in state management tools like **Redux** and **Zustand**. Passionate about solving complex challenges, I strive to deliver scalable and high-quality solutions.
+</p>
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://raw.githubusercontent.com/demartini/demartini/refs/heads/master/code.gif)" width="350" style="border: 5px solid #ff5733; border-radius: 10px;">
+</p>
 ---
 
 
