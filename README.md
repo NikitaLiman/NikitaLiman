@@ -27,7 +27,7 @@ const nikita = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+
   
 ### Frontend
   
@@ -55,13 +55,12 @@ const nikita = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaliman&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitaliman&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 ## 🌱 Currently Learning
