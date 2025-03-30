@@ -19,7 +19,7 @@
 
 ### 📞 Contact Info
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
     📧 **Gmail:** fram08fort29@gmail.com  
     💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
