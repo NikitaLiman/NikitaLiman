@@ -14,19 +14,22 @@
   I am a computer science student in Poland with two years of practical web development experience. I specialize in **JavaScript, React, Next.js, and TypeScript**, with expertise in state management tools like **Redux** and **Zustand**. Passionate about solving complex challenges, I strive to deliver scalable and high-quality solutions.
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdoZGJlbmdlcXp5YXViNWtyMzRmaHo5OG9odTc5YXRnYXNpeGJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOGCyj0NW28gg/giphy.gif" width="350" style="border: 5px solid #ff5733; border-radius: 10px;">
-</p>
-
-
 
 ---
 
 ### 📞 Contact Info
-📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
-📧 **Gmail:** fram08fort29@gmail.com  
-💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
-📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    📱 **Tel:** +48 790 263 681 / +380 50 740 65 59  
+    📧 **Gmail:** fram08fort29@gmail.com  
+    💬 **Telegram:** [Disappear7779](https://t.me/disappear7779)  
+    📋 **LinkedIn** [Nikita Lyman](https://www.linkedin.com/in/nikita-lyman-325844332/)
+  </div>
+  
+  <div>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdoZGJlbmdlcXp5YXViNWtyMzRmaHo5OG9odTc5YXRnYXNpeGJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOGCyj0NW28gg/giphy.gif" width="150" style="border: 5px solid #ff5733; border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
