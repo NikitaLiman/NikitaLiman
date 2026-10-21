@@ -21,7 +21,7 @@ I'm a Computer Science student in Poland with two years of practical web develop
 const nikita = {
   location: "Poland",
   education: "Computer Science",
-  experience: "2+ years in Web Development",
+  experience: "3+ years in Web Development",
   specialization: ["React", "Next.js", "TypeScript", "Frontend"],
   currentFocus: "Building scalable web applications",
   hobbies: ["Coding", "Problem Solving", "Continuous Learning"]
